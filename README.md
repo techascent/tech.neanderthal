@@ -3,6 +3,10 @@
 Neandtheral bindings to the techascent ecosystem.
 
 
+Currently only zero-copy of neanderthal into tech tensors is supported.
+It should be noted, however, that this pathway will also allow zerocopy
+into tvm tensors and into numpy objects.
+
 ## Usage
 
 #### MKL

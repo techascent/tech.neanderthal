@@ -1,4 +1,4 @@
-(defproject techascent/tech.neanderthal "4.44"
+(defproject techascent/tech.neanderthal "4.45-SNAPSHOT"
   :description "Neanderthal bindings to the techascent ecosystem"
   :url "http://github.com/techascent/tech.neanderthal"
   :license {:name "EPL-2.0"
